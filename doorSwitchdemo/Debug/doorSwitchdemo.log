@@ -1,0 +1,11 @@
+﻿  videoDemo.cpp
+e:\robot\电梯开关\doorswitchdemo\doorswitchdemo\videodemo.cpp(30): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\robot\电梯开关\doorswitchdemo\doorswitchdemo\videodemo.cpp(31): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\robot\电梯开关\doorswitchdemo\doorswitchdemo\videodemo.cpp(46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\robot\电梯开关\doorswitchdemo\doorswitchdemo\videodemo.cpp(132): warning C4018: “<”: 有符号/无符号不匹配
+e:\robot\电梯开关\doorswitchdemo\doorswitchdemo\videodemo.cpp(137): warning C4018: “<”: 有符号/无符号不匹配
+e:\robot\电梯开关\doorswitchdemo\doorswitchdemo\videodemo.cpp(142): warning C4018: “<”: 有符号/无符号不匹配
+e:\robot\电梯开关\doorswitchdemo\doorswitchdemo\videodemo.cpp(150): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\robot\电梯开关\doorswitchdemo\doorswitchdemo\videodemo.cpp(203): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  doorSwitchdemo.vcxproj -> E:\robot\电梯开关\doorSwitchdemo\Debug\doorSwitchdemo.exe
+  doorSwitchdemo.vcxproj -> E:\robot\电梯开关\doorSwitchdemo\Debug\doorSwitchdemo.pdb (Partial PDB)
